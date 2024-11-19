@@ -10,7 +10,7 @@ import java.net.URL;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     private static final String API_URL = "https://api.openai.com/v1/audio/transcriptions";
-    private static final String API_KEY = "Bearer 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";
+    private static final String API_KEY = "YOUR_API_KEY";
     private static final String BOUNDARY = "---------------------------" + System.currentTimeMillis();
 
 
